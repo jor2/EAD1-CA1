@@ -1,0 +1,6 @@
+C:\Users\jorda\source\repos\CA1\CA1\obj\Debug\CA1.csprojResolveAssemblyReference.cache
+C:\Users\jorda\source\repos\CA1\CA1\obj\Debug\CA1.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\CA1\CA1\bin\Debug\CA1.exe
+C:\Users\jorda\source\repos\CA1\CA1\bin\Debug\CA1.pdb
+C:\Users\jorda\source\repos\CA1\CA1\obj\Debug\CA1.exe
+C:\Users\jorda\source\repos\CA1\CA1\obj\Debug\CA1.pdb
